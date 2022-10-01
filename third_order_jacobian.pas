@@ -52,7 +52,13 @@ program Jacobian_third;
 
         end; 
    //writeln(f(x1,y1,z1)[2]);  // first the inputs and then the array -> f(x,y,z) [array_number] for the access 
-  
+    
+
+    // Format of providing Jacobian matrix ---->
+
+    //  [     a[1][1]            a[1][2]            a[1][3]         ]
+    //  [     a[2][1]            a[2][2]            a[2][3]         ]
+    //  [     a[3][1]            a[3][2]            a[3][3]         ]
 
 
 end. 
