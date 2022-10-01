@@ -3,11 +3,10 @@
 program IfStatements;
 
 var
-    v1 : integer; 
+    v1: integer; 
     i,j : integer; 
 
 begin 
-
     i := 10;
     readln(v1);
     if(i=v1) then 
@@ -28,7 +27,7 @@ begin
          end;
     end; 
 end.    
-
+ 
 
 
 
